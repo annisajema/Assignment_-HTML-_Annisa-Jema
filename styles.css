@@ -3,7 +3,7 @@
 }
 
 html body {
-  background-color: rgb(13, 13, 13);
+  background-color: black;
 }
 
 .navbar-brand,
@@ -14,7 +14,7 @@ html body {
 }
 
 .navbar {
-  background-color: rgba(13, 13, 13, 0.8);
+  background-color: rgba(26, 2, 30, 0.8);
   position: relative;
 }
 
@@ -41,9 +41,13 @@ html body {
   margin-top: 30px;
 }
 
-#carouselExampleIndicators {
-  margin-top: 70px;
+.mt_71 {
+  margin-top: 71px;
 }
+
+/* #carouselExampleIndicators {
+  margin-top: 71px;
+} */
 
 .carousel-item,
 .carousel-item > img {
